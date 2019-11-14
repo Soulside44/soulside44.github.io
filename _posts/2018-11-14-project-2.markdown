@@ -8,5 +8,4 @@ project-date: Nov 2019
 client: Start Bootstrap
 category: GameUI Development
 description: Game UI for Unity Engine
-<a href="https://soulside44.github.com/unitycalendar">Github</a>
 ---
