@@ -8,6 +8,6 @@ project-date: Nov 2019
 github: https://github.com/Soulside44/ContactsApp
 DevEnv: C#, Unity Engine
 category: GameUI Development
-description: Game UI for Unity Engine <a href="https://github.com/Soulside44/ContactsApp">Github</a>
+description: Game UI for Unity Engine
 
 ---
