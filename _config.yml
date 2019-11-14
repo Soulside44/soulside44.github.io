@@ -1,10 +1,10 @@
 # Site settings
-title: GAMEDEV
+title: TEKI DEV
 email: soulside44@gmail.com
 url: https://soulside44.github.io
-description: "GAME&APP DEV"
-keywords: "GAMEDEV, UNITY, C#"
-skills: "PROGRAMMER, WRITER, OFFICIAL, RESEARCHER"
+description: "GAME&APP DEVELOPER"
+keywords: "GAMEDEV, UNITY, C#, GAME, DESIGNER, GOV, OFFICIAL"
+skills: "C# DEVELOPER, UNITY PROGRAMMER, WRITER, OFFICIAL, RESEARCHER"
 meta_author: TEKI KIM
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: TEKI
+  copyright: TEKIDEV
   location: LOCATION
   social: VISIT ME!
   credits: DONATION
