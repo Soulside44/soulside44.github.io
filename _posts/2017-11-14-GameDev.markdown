@@ -5,7 +5,8 @@ date: 2019-11-14
 img: p03.png
 alt: image-alt
 project-date: Nov 2019
-client: C#, Unity Engine
+github: https://github.com/soulside44
+DevEnv: C#, Unity Engine
 category: Mobile Game Development
 description: Mobile Game Development in Unity Engine
 ---

@@ -19,9 +19,9 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
-                                    <li>Dev Env:
-                                        <strong>{{ post.client }}
+                                {% if post.DevEnv %}
+                                    <li>DevEnv:
+                                        <strong>{{ post.DevEnv }}
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -38,7 +38,8 @@
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button" class="btn btn-default" onclick="location.href='https://github.com/soulside44'">
+                            {if post.github%}
+                            <button type="button" class="btn btn-default" onclick="location.href='{{post.github}}'">
                             <i class="fa fa-bookmark"></i> TEKIDEV Github</button>
                         </div>
                     </div>
